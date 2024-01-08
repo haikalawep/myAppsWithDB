@@ -15,7 +15,7 @@ public class user {
 
     }
 
-    public String getUserID() {
+    public String getUserIDs() {
         return userID;
     }
 
